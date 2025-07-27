@@ -10,6 +10,8 @@ export default defineNuxtConfig({
     '@nuxt/scripts',
     '@nuxt/test-utils',
     '@nuxt/ui',
-    '@nuxthub/core'
+    '@nuxthub/core',
+    '@nuxt/fonts',
+    '@nuxt/icon'
   ]
 })
